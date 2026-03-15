@@ -6,4 +6,4 @@ Global circulation and Earth system models may capture the impact of greenhouse 
 
 ## Recommended reading material
 
-Will be provided later when the challenge is ready
+[Are Deep Learning Methods Suitable for Downscaling Global Climate Projections? An Intercomparison for Temperature and Precipitation over Spain](https://journals.ametsoc.org/view/journals/aies/4/4/AIES-D-24-0121.1.xml), by Jose González-Abad and José Manuel Gutiérrez (2025)
